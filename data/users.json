@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "username": "admin",
+    "password": "admin123",
+    "role": "admin",
+    "suspended": false
+  },
+  {
+    "id": 2,
+    "username": "user1",
+    "password": "user123",
+    "role": "user",
+    "suspended": false
+  },
+  {
+    "id": 3,
+    "username": "user2",
+    "password": "user456",
+    "role": "user",
+    "suspended": false
+  },
+  {
+    "id": 4,
+    "username": "user3",
+    "password": "pass789",
+    "role": "user",
+    "suspended": true
+  }
+]
